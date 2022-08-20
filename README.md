@@ -1,10 +1,10 @@
 # Parking-Wars-Manhattan
 
 This is a team project with members:
-* Butiong, Rafael Antonio
-* Du, Jackie 
-* Huang, Congjun 
-* Luo, Yili 
+* Butiong, Rafael Antonio - [rafaelantonio.butiong@duke.edu](mailto:rafaelantonio.butiong@duke.edu)
+* Du, Jackie - [jacquelyn.du@duke.edu](mailto:jacquelyn.du@duke.edu)
+* Huang, Congjun - [congjun.huang@duke.edu](mailto:congjun.huang@duke.edu)
+* Luo, Yili - [yili.luo@duke.edu](mailto:yili.luo@duke.edu)
 
 ![ticket](nyc_parking_ticket.jpg?raw=true)
 
