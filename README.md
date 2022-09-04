@@ -1,4 +1,4 @@
-# Parking-Wars-Manhattan
+# Parking-Wars-New-York-Manhattan
 
 This is a team project with members:
 * Butiong, Rafael Antonio - [rafaelantonio.butiong@duke.edu](mailto:rafaelantonio.butiong@duke.edu)
